@@ -91,18 +91,28 @@ An AI-assisted project focused on early-stage dementia detection and health-rela
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rehanscoder12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanscoder12&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rehanscoder12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
+    height="180"
+    alt="GitHub Stats"
+  />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanscoder12&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rehanscoder12&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Rehanscoder12&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
-
 ---
 
 ## 📈 Contribution Activity
@@ -116,9 +126,11 @@ An AI-assisted project focused on early-stage dementia detection and health-rela
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rehanscoder12&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Rehanscoder12&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="GitHub Profile Trophies"
+  />
 </p>
-
 ---
 
 ## 📌 GitHub Overview
