@@ -1,228 +1,61 @@
-# 👋 Hey, I'm Rehans Pathak
+<!-- Animated GitHub profile | Generated from the supplied profile playbook -->
+<div align="center">
 
-### 💻 Web Developer | Full-Stack Developer | Building with Java & JavaScript
+![Animated hero](./assets/hero.svg?v=1)
 
-I'm a B.Tech Information Technology student who enjoys building practical web applications, solving problems with code, and learning how modern backend systems work.
+</div>
 
-Currently focused on **Full-Stack Web Development**, with a growing focus on **Java, Spring Boot, REST APIs, databases, and scalable backend systems**.
+![About and interests](./assets/about-life.svg?v=1)
 
-<p align="center">
-  <a href="https://github.com/Rehanscoder12">
-    <img src="https://komarev.com/ghpvc/?username=Rehanscoder12&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Rehanscoder12?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rehanscoder12?style=for-the-badge&label=Followers" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Rehanscoder12">
-    <img src="https://img.shields.io/github/stars/Rehanscoder12?style=for-the-badge&label=Stars" alt="GitHub Stars"/>
-  </a>
-</p>
+![Tech stack](./assets/stack.svg?v=1)
 
----
+![Developer ID](./assets/id-dashboard.svg?v=1)
 
-## 🚀 What I'm Up To
+![Connect](./assets/connect.svg?v=1)
 
-* 🔭 Currently working on **[AlgoPrep](https://github.com/Rehanscoder12/-AlgoPrep)**
-* 🌱 Currently learning **Java & Spring Boot**
-* 💻 Building projects around **Full-Stack Web Development**
-* 🧠 Improving my **DSA and problem-solving skills**
-* 🤝 Open to collaborating on interesting web development projects
-* 📚 Exploring **Backend Development, REST APIs, Databases & System Design**
-* 🎯 Working toward becoming a strong **Backend / Full-Stack Developer**
+## 👋 About me
 
----
+I'm Rehans Pathak, a B.Tech Information Technology student at CUSAT in Kochi, Kerala. I enjoy building practical web applications, practising DSA, and creating tech content. I'm currently focused on Java, Spring Boot, REST APIs, databases, and full-stack development.
 
-## 🛠️ Tech Stack
+## 🚀 Featured projects
 
-### Languages
+| Project | Description | Repository |
+|---|---|---|
+| **AlgoPrep** | A DSA learning and practice platform with topic-wise learning, videos, practice questions, and a guided roadmap. | [View repository](https://github.com/Rehanscoder12/-AlgoPrep) |
+| **AI-Assisted Inventory & Manufacturing Management System** | Existing README describes a full-stack project for inventory and manufacturing workflows, dashboards, and data management. A repository URL was not provided, so no link is guessed. | Link not provided |
+| **BrainTrack** | Existing README describes an AI-assisted project focused on early-stage dementia detection and health-related data analysis. A repository URL was not provided, so no link is guessed. | Link not provided |
+| **LeetCode Problem Solutions (LeetHub)** | LeetCode solutions automatically pushed to GitHub using LeetHub. | [View repository](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-) |
+| **Resume Analyzer** | Full-stack resume analysis application using AI, skill extraction, resume evaluation, and improvement suggestions. | [View repository](https://github.com/Rehanscoder12/Resume-Analyzer) |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css" alt="Languages"/>
-</p>
+## 🛠️ Tech stack
 
-### Frontend
+**Languages:** C, C++, Java, JavaScript, HTML, CSS  
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express, Java, Spring Boot  
+**Databases & tools:** MySQL, MongoDB, Git, GitHub, VS Code, Postman
+
+## 🤝 Connect with me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="Frontend Technologies"/>
+  <a href="https://github.com/Rehanscoder12"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rehans-kumar-pathak-42862931b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/@PathakXplains"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/pathakrehans/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:rehanskumarpathak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://6abe6d5a59f9d64480cf3582--rehanspathak-portfolio.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
-### Backend
+## 📈 Optional GitHub widgets
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend Technologies"/>
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" alt="Tools and Technologies"/>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🧠 [AlgoPrep](https://github.com/Rehanscoder12/-AlgoPrep)
-
-> A platform focused on helping developers practice Data Structures & Algorithms.
-
-**Focus:** DSA • Problem Solving • Web Development
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/Rehanscoder12/-AlgoPrep)
-
----
-
-### 📦 AI-Assisted Inventory & Manufacturing Management System
-
-A full-stack project designed to manage inventory and manufacturing workflows with a focus on useful dashboards and data management.
-
-**Focus:** React • Node.js • Database • REST APIs
-
----
-
-### 🤖 BrainTrack
-
-An AI-assisted project focused on early-stage dementia detection and health-related data analysis.
-
-**Focus:** AI/ML • Web Development • Data Processing
-
----
-
-## 📊 GitHub Analytics
+These third-party widgets load remotely, so they are kept outside the self-contained animated SVGs:
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rehanscoder12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanscoder12&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800"
-    height="180"
-    alt="Top Languages"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rehanscoder12&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanscoder12&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
 </p>
----
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Rehanscoder12&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehanscoder12&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
+> Stats are generated by a third-party service and may be delayed or unavailable. No fixed numbers are hard-coded into this profile.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Rehanscoder12&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    alt="GitHub Profile Trophies"
-  />
-</p>
----
-
-## 📌 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehanscoder12&repo=-AlgoPrep&hide_border=true" alt="AlgoPrep"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-```text
-Java
- └── Spring Boot
-      ├── REST APIs
-      ├── Spring Data JPA
-      ├── Spring Security
-      └── Backend Architecture
-
-Web Development
- ├── React
- ├── Node.js
- ├── Express.js
- ├── MySQL
- └── MongoDB
-
-Computer Science
- ├── Data Structures & Algorithms
- ├── DBMS
- ├── Operating Systems
- ├── Computer Networks
- └── System Design
-```
-
----
-
-## 🎯 My Development Journey
-
-```text
-Programming
-     ↓
-Data Structures & Algorithms
-     ↓
-Frontend Development
-     ↓
-Backend Development
-     ↓
-Full-Stack Applications
-     ↓
-Java + Spring Boot
-     ↓
-System Design & Scalable Backend Systems
-```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:rehanskumarpathak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://rehanspathakportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Rehanscoder12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>💬 Ask me about Web Development, Java, Spring Boot, DSA & Full-Stack Development</b>
-</p>
-
----
-
-## 💡 A Little More About Me
-
-* 🎓 B.Tech Information Technology student
-* 💻 Passionate about building software
-* 🌐 Interested in Full-Stack & Backend Development
-* ☕ Currently spending a lot of time with Java & Spring Boot
-* 🧩 Enjoy solving DSA problems
-* 🚀 Always building, learning and improving
-
----
-
-<p align="center">
-  <i>“Build. Break. Learn. Improve. Repeat.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you find something interesting in my repositories, feel free to explore and connect!
-</p>
+*Build. Learn. Share. Repeat.*
