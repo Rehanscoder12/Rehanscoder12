@@ -29,8 +29,8 @@ I'm Rehans Pathak, a B.Tech Information Technology student at CUSAT in Kochi, Ke
 
 ## 🛠️ Tech stack
 
-**Languages:** C, C++, Java, JavaScript, HTML, CSS  
-**Frontend:** React, Tailwind CSS  
+**Languages:** C, C++, Java, JavaScript 
+**Frontend:** React, Tailwind CSS ,HTML 
 **Backend:** Node.js, Express, Java, Spring Boot  
 **Databases & tools:** MySQL, MongoDB, Git, GitHub, VS Code, Postman
 
